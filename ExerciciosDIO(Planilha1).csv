@@ -1,0 +1,19 @@
+﻿CHAVE;PERFIL;TIPO FII;%;;;;;
+Conservador-PAPEL;Conservador;PAPEL;30%;;;;;%
+Conservador-TIJOLO;Conservador;TIJOLO;50%;;;;Moderado-TIJOLO;
+Conservador-HIBRIDOS;Conservador;HIBRIDOS;10%;;;;;
+Conservador-FOF´s;Conservador;FOF´s;10%;;;;;
+Conservador-DESENVOLVIMENTO;Conservador;DESENVOLVIMENTO;0%;;;;;
+Conservador-HOTELARIAS;Conservador;HOTELARIAS;0%;;;;;
+Moderado-PAPEL;Moderado;PAPEL;32%;;;;;
+Moderado-TIJOLO;Moderado;TIJOLO;40%;;;;;
+Moderado-HIBRIDOS;Moderado;HIBRIDOS;8%;;;;;
+Moderado-FOF´s;Moderado;FOF´s;5%;;;;;
+Moderado-DESENVOLVIMENTO;Moderado;DESENVOLVIMENTO;10%;;;;;
+Moderado-HOTELARIAS;Moderado;HOTELARIAS;5%;;;;;
+Agressivo-PAPEL;Agressivo;PAPEL;50%;;;;;
+Agressivo-TIJOLO;Agressivo;TIJOLO;10%;;;;;
+Agressivo-HIBRIDOS;Agressivo;HIBRIDOS;5%;;;;;
+Agressivo-FOF´s;Agressivo;FOF´s;5%;;;;;
+Agressivo-DESENVOLVIMENTO;Agressivo;DESENVOLVIMENTO;20%;;;;;
+Agressivo-HOTELARIAS;Agressivo;HOTELARIAS;10%;;;;;
